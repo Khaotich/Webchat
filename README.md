@@ -9,10 +9,21 @@ Technologie wykorzystane do projektu:
 # I Raport 26.03.2021
 Na obecną chwilę zaimplementowałem bazę danych i system użytkowników. W systemie użytkowników działa już logowanie, wylogowywanie, zmiana hasła, resetowanie hasła (jeśli się je zapomniało po przez email z linkiem do strony gdzie można nadać nowe hasło) oraz rejestracja w serwisie.
 
-//Logowanie:
- ![](img_project/img1.png)
+Logowanie:  
+![](img_project/img1.png)
 
-Rejestracja:
- ![](img_project/img5.png)
+Rejestracja:  
+![](img_project/img5.png)
+
+Zmiana hasła:  
+![](img_project/img6.png)
+
+Wylogowywanie:  
+![](img_project/img7.png)
+
+Reset zapomnianego hasła:  
+![](img_project/img2.png)  
+![](img_project/img3.png)
+![](img_project/img4.png)
 
 # Do Zrobienia
