@@ -23,7 +23,7 @@ Wylogowywanie:
 
 Reset zapomnianego hasła:  
 ![](img_project/img2.png)  
-![](img_project/img3.png)
 ![](img_project/img4.png)
+![](img_project/img3.png)
 
 # Do Zrobienia
