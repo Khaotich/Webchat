@@ -10,9 +10,9 @@ Technologie wykorzystane do projektu:
 Na obecną chwilę zaimplementowałem bazę danych i system użytkowników. W systemie użytkowników działa już logowanie, wylogowywanie, zmiana hasła, resetowanie hasła (jeśli się je zapomniało po przez email z linkiem do strony gdzie można nadać nowe hasło) oraz rejestracja w serwisie.
 
 Logowanie:
-![](img_project/img1.png)
+ ![](img_project/img1.png)
 
 Rejestracja:
-![](img_project/img5.png)
+ ![](img_project/img5.png)
 
 # Do Zrobienia
