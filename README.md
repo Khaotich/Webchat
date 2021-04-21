@@ -26,6 +26,12 @@ Reset zapomnianego hasła:
 ![](img_project/img4.png)
 ![](img_project/img3.png)
 
+# II Raport 09.04.2021
+Na obecny moment rozszerzyłem system użytkowników o przypisywanie domyślnego zdjęcia po utworzeniu konta oraz możliwość zmiany zdjęcia na własne. Użytkownik posiada również teraz możliwość zmiany: nazwy użytkownika, maila oraz hasła.
+
+Profil:  
+![](img_project/img8.png)
+
 # Do Zrobienia
 - system chatowania (tworzenie i dołączanie do chatów, rozmowy)
 - dodanie automatycznego dodawania nowych wiadomości bez odświeżania strony
