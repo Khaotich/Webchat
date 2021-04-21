@@ -32,6 +32,12 @@ Na obecny moment rozszerzyłem system użytkowników o przypisywanie domyślnego
 Profil:  
 ![](img_project/img8.png)
 
+# III Raport 23.04.2021
+W obecnej aktualizacji zaimplementowałem wygląd przez CSS i Bootstrapa.
+
+Wygląd:  
+![](img_project/img9.png)
+
 # Do Zrobienia
 - system chatowania (tworzenie i dołączanie do chatów, rozmowy)
 - dodanie automatycznego dodawania nowych wiadomości bez odświeżania strony
