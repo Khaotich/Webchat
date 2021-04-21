@@ -41,5 +41,3 @@ Wygląd:
 # Do Zrobienia
 - system chatowania (tworzenie i dołączanie do chatów, rozmowy)
 - dodanie automatycznego dodawania nowych wiadomości bez odświeżania strony
-- możliwość zmiany emaila i zdjęcia
-- nadanie wyglądu aplikacji przez CSS i Bootstrap
