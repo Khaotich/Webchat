@@ -33,7 +33,7 @@ Profil:
 ![](img_project/img8.png)
 
 # III Raport 23.04.2021
-W obecnej aktualizacji zaimplementowałem wygląd przez CSS i Bootstrapa.
+W obecnej aktualizacji zaimplementowałem wygląd przez CSS i Bootstrapa. W przyszłości wygląd strony może się jeszcze zmienić po zaimplementowaniu systemu chatowania.
 
 Wygląd:  
 ![](img_project/img9.png)
