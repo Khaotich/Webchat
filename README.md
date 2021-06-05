@@ -39,6 +39,9 @@ Wygląd:
 ![](img_project/img9.png)
 
 # IV Raport 21.05.21
+W nowej aktualizacji dodałem system chatowania z pokojami. Użytkownicy po zarejestrowaniu się mogą dołączać do pokojów i rozmawiać ze sobą.
+
+Rozmowa:
 ![](img_project/chat.gif)
 
 # Do Zrobienia
