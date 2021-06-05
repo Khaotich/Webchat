@@ -44,6 +44,5 @@ W nowej aktualizacji dodałem system chatowania z pokojami. Użytkownicy po zare
 Rozmowa:
 ![](img_project/chat.gif)
 
-# Do Zrobienia
-- system chatowania (tworzenie i dołączanie do chatów, rozmowy)
-- dodanie automatycznego dodawania nowych wiadomości bez odświeżania strony
+# Końcowa Wersja
+Serwis został dopracowany pod względem wyglądu i szczegółów. Zostały dodane grafiki, tytuły stron, ikona serwisu oraz strona z opisem portalu.
