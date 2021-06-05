@@ -38,6 +38,9 @@ W obecnej aktualizacji zaimplementowałem wygląd przez CSS i Bootstrapa. W przy
 Wygląd:  
 ![](img_project/img9.png)
 
+# IV Raport 21.05.21
+![](img_project/chat.gif)
+
 # Do Zrobienia
 - system chatowania (tworzenie i dołączanie do chatów, rozmowy)
 - dodanie automatycznego dodawania nowych wiadomości bez odświeżania strony
