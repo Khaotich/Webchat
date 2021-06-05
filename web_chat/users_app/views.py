@@ -16,7 +16,7 @@ def register(request):
             return redirect('login')
     else:
         form = UserRegisterForm()
-    return render(request, 'users_app/register.html', {'form' : form})
+    return render(request, 'users_app/register.html', {'form' : form, 'title':'Registration'})
 
 @login_required
 def profile(request):
@@ -37,6 +37,7 @@ def profile(request):
     context = {
         'u_form' : u_form,
         'p_form' : p_form,
+        'title' : 'Profile',
     }
 
     return render(request, 'users_app/profile.html', context)
@@ -54,4 +55,4 @@ def password_change(request):
             messages.error(request, 'Please correct the error below!')
     else:
         form = PasswordChangeForm(request.user)
-    return render(request, 'users_app/password_change.html', {'form': form})
+    return render(request, 'users_app/password_change.html', {'form':form, 'title':'Change Password'})

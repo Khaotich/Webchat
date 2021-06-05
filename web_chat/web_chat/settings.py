@@ -32,6 +32,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    'channels',
     'users_app.apps.UsersAppConfig',
     'chat_app.apps.ChatAppConfig',
     'crispy_forms',
@@ -72,7 +73,7 @@ TEMPLATES = [
 ]
 
 WSGI_APPLICATION = 'web_chat.wsgi.application'
-
+ASGI_APPLICATION = 'web_chat.asgi.application'
 
 # Database
 # https://docs.djangoproject.com/en/3.1/ref/settings/#databases
@@ -134,3 +135,12 @@ LOGIN_URL = 'login'
 #RESET PASSWORD
 EMAIL_HOST = "localhost"
 EMAIL_PORT = 1025
+
+CHANNEL_LAYERS = {
+    'default': {
+        'BACKEND': 'channels_redis.core.RedisChannelLayer',
+        'CONFIG': {
+            "hosts": [('127.0.0.1', 6379)],
+        },
+    },
+}
